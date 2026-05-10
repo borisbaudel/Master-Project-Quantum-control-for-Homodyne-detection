@@ -10,7 +10,6 @@
 **Quantum control · Linear observer · Homodyne detection · Kalman filtering**
 
 *Master's project — Laboratoire des Signaux et Systèmes (L2S), CentraleSupélec, Université Paris-Saclay*
-*Supervisors: [Prof. Nina Amini](https://scholar.google.com/), [Dr. Rebbecca T.Y. Thien](https://l2s.centralesupelec.fr/)*
 
 </div>
 
